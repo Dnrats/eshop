@@ -7,4 +7,4 @@ This e-commerce website is built using only WordPress, Elementor and WooCommerce
 # Features
 It's a small version of an eshop where you can buy things. I didn't integrate a payment system to avoid weird situations and also because i needed to create a business PayPal account. Same goes for stripe payments. 
 # Documentation
-The eshop is available at [dnrats.com/eshop](dnrats.com/eshop)
+The eshop is available at [dnrats.com/eshop](https://www.dnrats.com/eshop)
